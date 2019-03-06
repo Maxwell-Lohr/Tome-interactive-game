@@ -12,6 +12,17 @@ h1{
 
 /*style the element full screen (0px to top, bottom, left, and right)
 and hide the content over this container*/
+.imgbuttonL{
+	display: flex;
+	flex-direction: row;
+	width: 10vw;
+    height: 12vw;
+    font-size: 1.5vw;
+    margin: 2vw;
+}
+
+
+
 .game_wrapper{
 	position: absolute;
 	top: 0;
@@ -54,8 +65,8 @@ and style child elements both horizontally and vertically center*/
 
 .clickable_button{
 	width: 10vw;
-    height: 1ovw;
-    font-size: 2vw;
+    height: 12vw;
+    font-size: 1.5vw;
     margin: 2vw
 }
 

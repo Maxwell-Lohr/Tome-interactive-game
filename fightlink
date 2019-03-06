@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fightlinkpage</title>
+	<link rel="stylesheet" type="text/css" href="./resources/css/style.css">
+
+</head>
+<body>
+	
+		<div class="game_wrapper" style="background-image: url(./resources/media/images/tomb.jpg); background-size: cover; background-position: top;">
+
+		<div class=".button_div" align="left">
+	<a href="crossroads.html"><button class="clickable_button">later... </button><a href="crossroads.html"></div>
